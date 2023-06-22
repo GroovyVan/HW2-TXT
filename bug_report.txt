@@ -1,1 +1,8 @@
-
+id - 1,
+title - simple_bug1
+env - Opera ver.1.5
+precondition - open https://www.google.com/?hl=ru without vpn
+str - ask helpful link from frend
+ar - get rick rolled
+er - get helpful link
+attach - https://www.youtube.com/watch?v=dQw4w9WgXcQ
